@@ -1,11 +1,10 @@
-# TO run the web-app:
-'''
-open terminal in frontend folder
-run: npm start
-'''
-'''
-open another terminal in root Agritech folder
-run: flask --app app.py run
-'''
+# To run the web-app:
+***
+Open terminal in frontend folder and run: 
+*npm start*
+***
+Open another terminal in root Agritech folder and run: 
+*flask --app app.py run*
+***
 
-## note: all apis are not connected yet! only the 1st one works.
+## Note: All APIs are not connected yet! Only the 1st one works.

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgriTech Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome, {{ user['email'] }}</h1>
+        <h2>Select a scenario:</h2>
+        <ul>
+            <li><a href="{{ url_for('scenario', id=1) }}">Crop Yield Prediction</a></li>
+            <li><a href="{{ url_for('scenario', id=2) }}">IoT-based Farm Monitoring</a></li>
+            <li><a href="{{ url_for('scenario', id=3) }}">Water Management</a></li>
+            <li><a href="{{ url_for('scenario', id=4) }}">Crop Health Diagnostics</a></li>
+            <li><a href="{{ url_for('scenario', id=5) }}">Climate Adaptation</a></li>
+            <li><a href="{{ url_for('scenario', id=6) }}">Blockchain-powered Insurance</a></li>
+        </ul>
+        <a href="{{ url_for('logout') }}">Logout</a>
+    </div>
+</body>
+</html>

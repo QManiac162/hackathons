@@ -1,0 +1,7 @@
+Flask
+Flask-OAuthlib
+pandas
+scikit-learn
+matplotlib
+seaborn
+joblib

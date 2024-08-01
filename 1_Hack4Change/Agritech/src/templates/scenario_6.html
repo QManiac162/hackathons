@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blockchain Insurance</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
+    <script src="{{ url_for('static', filename='js/insurance.js') }}"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Blockchain-Powered Insurance</h1>
+        <button id="connectButton">Connect to MetaMask</button>
+        <button id="issuePolicyButton">Issue Policy</button>
+        <button id="submitClaimButton">Submit Claim</button>
+        <div id="status"></div>
+        <a href="{{ url_for('dashboard') }}">Back to Dashboard</a>
+    </div>
+</body>
+</html>

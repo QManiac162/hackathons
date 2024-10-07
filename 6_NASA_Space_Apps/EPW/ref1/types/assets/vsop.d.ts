@@ -1,0 +1,40 @@
+export class vsop {
+    static getMercury(t: any): number[];
+    static getVenus(t: any): number[];
+    static getEarth(t: any): number[];
+    static getMars(t: any): number[];
+    static getJupiter(t: any): number[];
+    static getSaturn(t: any): number[];
+    static getUranus(t: any): number[];
+    static getNeptune(t: any): number[];
+    static getEmb(t: any): number[];
+    static getMoon(earth: any, emb: any): number[];
+    static venus_z(t: any): number;
+    static venus_y(t: any): number;
+    static venus_x(t: any): number;
+    static uranus_z(t: any): number;
+    static uranus_y(t: any): number;
+    static uranus_x(t: any): number;
+    static saturn_z(t: any): number;
+    static saturn_y(t: any): number;
+    static saturn_x(t: any): number;
+    static neptune_z(t: any): number;
+    static neptune_y(t: any): number;
+    static neptune_x(t: any): number;
+    static mercury_z(t: any): number;
+    static mercury_y(t: any): number;
+    static mercury_x(t: any): number;
+    static mars_z(t: any): number;
+    static mars_y(t: any): number;
+    static mars_x(t: any): number;
+    static jupiter_z(t: any): number;
+    static jupiter_y(t: any): number;
+    static jupiter_x(t: any): number;
+    static emb_z(t: any): number;
+    static emb_y(t: any): number;
+    static emb_x(t: any): number;
+    static earth_z(t: any): number;
+    static earth_y(t: any): number;
+    static earth_x(t: any): number;
+}
+//# sourceMappingURL=vsop.d.ts.map

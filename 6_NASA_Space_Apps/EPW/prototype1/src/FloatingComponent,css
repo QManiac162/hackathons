@@ -1,0 +1,21 @@
+.floating-component {
+  position: fixed;
+  top: 20px; /* Adjust the position as needed */
+  right: 20px; /* Adjust the position as needed */
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  z-index: 1000; /* Make sure it appears above other elements */
+}
+
+label {
+  display: block;
+  margin-bottom: 10px; /* Space between dropdowns */
+}
+
+select {
+  width: 100%;
+  padding: 5px;
+  margin-top: 5px; /* Space above the select */
+}

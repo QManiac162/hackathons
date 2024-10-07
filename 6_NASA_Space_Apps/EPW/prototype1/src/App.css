@@ -1,0 +1,86 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden; /* Prevents scrolling */
+  font-family: Arial, sans-serif;
+  background-color: #0c0c0c; /* Space-themed background */
+  color: white; /* Text color */
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #0c0c0c; /* Space-themed background */
+  color: white;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.header {
+  background-color: #1a1a1a;
+  padding: 10px;
+  text-align: center;
+  width: 100vw;
+  height: 100px;
+  line-height: 100px; /* Vertical centering by matching line-height with header height */
+  text-align: center;
+}
+
+.main {
+  display: flex;
+  flex: 1;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column; /* Ensures vertical layout */
+  justify-content: flex-start; /* Adjust vertical alignment (start, center, end) */
+  align-items: center; /* Adjust horizontal alignment (start, center, end) */
+  background-color: #1e1e1e;
+  padding: 20px;
+  width: 200px;
+}
+
+
+
+
+.sidebar button {
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #2a2a2a;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.sidebar button:hover {
+  background-color: #3a3a3a;
+}
+
+.canvas-container {
+  flex: 1;
+}
+
+.multi-star-container {
+  width: 100vw; /* Full viewport width */
+  height: 100vh; /* Full viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black; /* Assuming a space-themed background */
+}
+
+
+
+
+.canvas-container {
+  flex: 1; /* Take all available space left */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0c0c0c; /* Background color for the canvas area */
+}

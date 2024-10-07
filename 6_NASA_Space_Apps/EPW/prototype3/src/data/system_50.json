@@ -1,0 +1,1028 @@
+{
+    "galaxy": {
+        "center_x": 0,
+        "center_y": 0,
+        "center_z": 0,
+        "rotation_speed": 0.005
+    },
+    "starSystems": [
+        {
+            "name": "11 Com",
+            "sy_dist": 1.0811467973413214,
+            "ra": 51.41707471655887,
+            "dec": 0.006052890752730099,
+            "st_teff": 7880.180259786162,
+            "st_lum": 0.8157735085945399,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.00048160535117056856,
+            "planets": [
+                {
+                    "pname": "11 Com b",
+                    "semi_major_axis": 6.176843535690082e-05,
+                    "eccentricity": 0.25052631578947365,
+                    "orbital_period": 8.037793377684274e-07,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": true,
+                    "radius": 0.1543514383632776,
+                    "angular_separation": 1.8282249730821975e-05,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "11 UMi",
+            "sy_dist": 1.4592799765309015,
+            "ra": 63.673083056398205,
+            "dec": 0.009140686062319528,
+            "st_teff": 6712.026155341522,
+            "st_lum": 0.8614762386248737,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0006020066889632108,
+            "planets": [
+                {
+                    "pname": "11 UMi b",
+                    "semi_major_axis": 8.029475543668021e-05,
+                    "eccentricity": 0.08421052631578947,
+                    "orbital_period": 1.2839036413593485e-06,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": true,
+                    "radius": 0.15564960016616475,
+                    "angular_separation": 1.7701698203899846e-05,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "14 And",
+            "sy_dist": 0.8723454220164321,
+            "ra": 98.01249449006106,
+            "dec": 0.0072783111985313224,
+            "st_teff": 7904.921799063357,
+            "st_lum": 0.8018200202224469,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010434782608695653,
+            "planets": [
+                {
+                    "pname": "14 And b",
+                    "semi_major_axis": 4.055790412919885e-05,
+                    "eccentricity": 0.0,
+                    "orbital_period": 4.643514769953223e-07,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": true,
+                    "radius": 0.16603489458926163,
+                    "angular_separation": 1.4944078451019735e-05,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "14 Her",
+            "sy_dist": 0.1956900741138278,
+            "ra": 67.37733527649169,
+            "dec": 0.007540083249405534,
+            "st_teff": 8700.18556154458,
+            "st_lum": 0.6003033367037411,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0004013377926421405,
+            "planets": [
+                {
+                    "pname": "14 Her b",
+                    "semi_major_axis": 0.0001457684548095369,
+                    "eccentricity": 0.3926315789473684,
+                    "orbital_period": 4.390418393304076e-06,
+                    "inclination": 0.8210810257110663,
+                    "habitable_zone": false,
+                    "radius": 0.15954408557482605,
+                    "angular_separation": 0.0002249585933150999,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "16 Cyg B",
+            "sy_dist": 0.23342996902840002,
+            "ra": 82.07024844197082,
+            "dec": 0.00792300738555357,
+            "st_teff": 9428.293717416278,
+            "st_lum": 0.6255813953488372,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010836120401337794,
+            "planets": [
+                {
+                    "pname": "16 Cyg B b",
+                    "semi_major_axis": 8.7136862284326e-05,
+                    "eccentricity": 0.7157894736842105,
+                    "orbital_period": 1.9860927708710228e-06,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": true,
+                    "radius": 0.17122754180081007,
+                    "angular_separation": 0.00011392811379124273,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "17 Sco",
+            "sy_dist": 1.454949901913279,
+            "ra": 67.61636012103118,
+            "dec": 0.004359508884340695,
+            "st_teff": 6613.0599982327485,
+            "st_lum": 0.843680485338726,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.001597324414715719,
+            "planets": [
+                {
+                    "pname": "17 Sco b",
+                    "semi_major_axis": 7.608422814582126e-05,
+                    "eccentricity": 0.0631578947368421,
+                    "orbital_period": 1.4385305816927456e-06,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": true,
+                    "radius": 0.1634385709834874,
+                    "angular_separation": 1.6830870913516654e-05,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "18 Del",
+            "sy_dist": 0.8815562437845705,
+            "ra": 87.3906376758971,
+            "dec": 0.005655470703178869,
+            "st_teff": 8067.509057170629,
+            "st_lum": 0.7809908998988877,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010033444816053513,
+            "planets": [
+                {
+                    "pname": "18 Del b",
+                    "semi_major_axis": 0.0001300842406510873,
+                    "eccentricity": 0.02526315789473684,
+                    "orbital_period": 2.444674860526735e-06,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.15824592377193897,
+                    "angular_separation": 4.716468819519789e-05,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "1RXS J160929.1-210524",
+            "sy_dist": 1.6218225057913305,
+            "ra": 67.31455768654942,
+            "dec": 0.0038311471863146374,
+            "st_teff": 6441.636476097906,
+            "st_lum": 0.5783619817997978,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010033444816053513,
+            "planets": [
+                {
+                    "pname": "1RXS J160929.1-210524 b",
+                    "semi_major_axis": 0.01736819349579218,
+                    "eccentricity": 0.0,
+                    "orbital_period": 2.8103914707833836e-08,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.2380439297954097,
+                    "angular_separation": 0.003439762673646389,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "24 Boo",
+            "sy_dist": 1.114113020320107,
+            "ra": 60.304703676334825,
+            "dec": 0.007884593285899761,
+            "st_teff": 7777.679597066362,
+            "st_lum": 0.8055611729019212,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0013484949832775922,
+            "planets": [
+                {
+                    "pname": "24 Boo b",
+                    "semi_major_axis": 9.978949679335715e-06,
+                    "eccentricity": 0.03368421052631579,
+                    "orbital_period": 7.522212367368935e-08,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.17642018901235854,
+                    "angular_separation": 2.9266618437316633e-06,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "24 Sex",
+            "sy_dist": 0.8326911163945578,
+            "ra": 43.27056052211285,
+            "dec": 0.004984454583943144,
+            "st_teff": 8276.04488822126,
+            "st_lum": 0.7334681496461072,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.001111705685618729,
+            "planets": [
+                {
+                    "pname": "24 Sex b",
+                    "semi_major_axis": 6.992633198294003e-05,
+                    "eccentricity": 0.09473684210526315,
+                    "orbital_period": 1.1261425219207666e-06,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": true,
+                    "radius": 0.16992937999792296,
+                    "angular_separation": 2.6845384752923377e-05,
+                    "texture": null
+                },
+                {
+                    "pname": "24 Sex c",
+                    "semi_major_axis": 0.0001092421305613355,
+                    "eccentricity": 0.3052631578947368,
+                    "orbital_period": 2.196291775893576e-06,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.17642018901235854,
+                    "angular_separation": 4.1939724452898725e-05,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "2MASS J04372171+2651014",
+            "sy_dist": 1.496497438529652,
+            "ra": 19.220952908544653,
+            "dec": 0.006570491213149636,
+            "st_teff": 4745.07378280463,
+            "st_lum": 0.4980788675429727,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.009046153846153846,
+            "planets": [
+                {
+                    "pname": "2M0437 b",
+                    "semi_major_axis": 0.006210296175015956,
+                    "eccentricity": 0.0,
+                    "orbital_period": 2.8103914707833836e-08,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.16473673278637452,
+                    "angular_separation": 0.001332360630919061,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "2MASS J01033563-5515561 A",
+            "sy_dist": 0.5400686743480442,
+            "ra": 4.367455958136912,
+            "dec": 0.00187764365338565,
+            "st_teff": 9076.610409119025,
+            "st_lum": 0.6029734704251302,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010033444816053513,
+            "planets": [
+                {
+                    "pname": "2MASS J01033563-5515561 AB b",
+                    "semi_major_axis": 0.004420822076400902,
+                    "eccentricity": 0.0,
+                    "orbital_period": 2.8103914707833836e-08,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.15564960016616475,
+                    "angular_separation": 0.0025834491714362487,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "2MASS J01225093-2439505",
+            "sy_dist": 0.3827281178823185,
+            "ra": 5.705336563391269,
+            "dec": 0.0036264699234236615,
+            "st_teff": 5504.992489175576,
+            "st_lum": 0.4418604651162791,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010033444816053513,
+            "planets": [
+                {
+                    "pname": "2MASS J01225093-2439505 b",
+                    "semi_major_axis": 0.0027366111600573215,
+                    "eccentricity": 0.0,
+                    "orbital_period": 2.8103914707833836e-08,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.14148665489666634,
+                    "angular_separation": 0.0022351182552829713,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "2MASS J02192210-3925225",
+            "sy_dist": 0.4564045869511171,
+            "ra": 9.632607430060274,
+            "dec": 0.002783039743371385,
+            "st_teff": 4681.452681806132,
+            "st_lum": 0.3902932254802831,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0026086956521739132,
+            "planets": [
+                {
+                    "pname": "2MASS J02192210-3925225 b",
+                    "semi_major_axis": 0.008210296638173957,
+                    "eccentricity": 0.0,
+                    "orbital_period": 2.8103914707833836e-08,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.20551199501505868,
+                    "angular_separation": 0.005645858475950479,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "2MASS J0249-0557 A",
+            "sy_dist": 0.7620002949604471,
+            "ra": 11.756755217643065,
+            "dec": 0.00469541867796244,
+            "st_teff": 4319.165856675798,
+            "st_lum": 0.35389282103134484,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010033444816053513,
+            "planets": [
+                {
+                    "pname": "2MASS J0249-0557 c",
+                    "semi_major_axis": 0.10263137113568595,
+                    "eccentricity": 0.0,
+                    "orbital_period": 2.8103914707833836e-08,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.15694776196905186,
+                    "angular_separation": 0.04281566998713979,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "2MASS J03590986+2009361",
+            "sy_dist": 1.3664893014369572,
+            "ra": 16.56677490890258,
+            "dec": 0.006188146475548454,
+            "st_teff": 4467.61509233896,
+            "st_lum": 0.388675429726997,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010033444816053513,
+            "planets": [
+                {
+                    "pname": "2MASS J03590986+2009361 b",
+                    "semi_major_axis": 0.03010503855064051,
+                    "eccentricity": 0.0,
+                    "orbital_period": 2.8103914707833836e-08,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.1543514383632776,
+                    "angular_separation": 0.0070682097169096954,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "2MASS J04414489+2301513",
+            "sy_dist": 1.401659238233435,
+            "ra": 19.525729777701883,
+            "dec": 0.006352214063243892,
+            "st_teff": 4455.244322700362,
+            "st_lum": 0.36865520728008094,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010033444816053513,
+            "planets": [
+                {
+                    "pname": "2MASS J04414489+2301513 b",
+                    "semi_major_axis": 0.0007892422880350562,
+                    "eccentricity": 0.0,
+                    "orbital_period": 2.8103914707833836e-08,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.15954408557482605,
+                    "angular_separation": 0.00018141722879594022,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "2MASS J11011926-7732383",
+            "sy_dist": 4.648403465424138,
+            "ra": 45.90016906374624,
+            "dec": 0.0006044651748141239,
+            "st_teff": 9076.610409119025,
+            "st_lum": 0.6029734704251302,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010033444816053513,
+            "planets": [
+                {
+                    "pname": "2MASS J11011926-7732383 b",
+                    "semi_major_axis": 0.013999771663105016,
+                    "eccentricity": 0.0,
+                    "orbital_period": 2.8103914707833836e-08,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.15045695295461628,
+                    "angular_separation": 3.823947769954333e-07,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "2MASS J11550485-7919108",
+            "sy_dist": 1.171482979051472,
+            "ra": 49.63558357128973,
+            "dec": 0.000502987871794095,
+            "st_teff": 4605.460811169038,
+            "st_lum": 0.45722952477249745,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010033444816053513,
+            "planets": [
+                {
+                    "pname": "2MASS J11550485-7919108 b",
+                    "semi_major_axis": 0.030894512417676562,
+                    "eccentricity": 0.0,
+                    "orbital_period": 2.8103914707833836e-08,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.1530532765603905,
+                    "angular_separation": 0.008447019593349751,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "2MASS J12073346-3932539",
+            "sy_dist": 0.7413700780390404,
+            "ra": 50.50273735513571,
+            "dec": 0.002775875372670995,
+            "st_teff": 4259.079261288328,
+            "st_lum": 0.35682507583417594,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010033444816053513,
+            "planets": [
+                {
+                    "pname": "2MASS J12073346-3932539 b",
+                    "semi_major_axis": 0.002894505933464532,
+                    "eccentricity": 0.0,
+                    "orbital_period": 2.8103914707833836e-08,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.1634385709834874,
+                    "angular_separation": 0.0012409237654288257,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "2MASS J19383260+4603591",
+            "sy_dist": 4.648132835760537,
+            "ra": 81.83963437937788,
+            "dec": 0.007668670905549803,
+            "st_teff": 51513.652027922595,
+            "st_lum": 0.7623862487360971,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010033444816053513,
+            "planets": [
+                {
+                    "pname": "2MASS J19383260+4603591 b",
+                    "semi_major_axis": 4.8189484843880704e-05,
+                    "eccentricity": 0.34736842105263155,
+                    "orbital_period": 1.009724611446737e-06,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.16992937999792296,
+                    "angular_separation": 3.36207548892326e-06,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "2MASS J21252752-8138278",
+            "sy_dist": 0.38610863537591356,
+            "ra": 89.2690870756097,
+            "dec": 0.00037030331860821663,
+            "st_teff": 5614.562163117434,
+            "st_lum": 0.49767441860465117,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010033444816053513,
+            "planets": [
+                {
+                    "pname": "2MASS J21252752-8138278 b",
+                    "semi_major_axis": 0.3943682808010756,
+                    "eccentricity": 0.0,
+                    "orbital_period": 2.8103914707833836e-08,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.15694776196905186,
+                    "angular_separation": 0.31930333468380373,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "2MASS J22362452+4751425",
+            "sy_dist": 0.8033289745445161,
+            "ra": 94.19871960900198,
+            "dec": 0.0077712689444869995,
+            "st_teff": 6415.1276840151995,
+            "st_lum": 0.5125379170879677,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010033444816053513,
+            "planets": [
+                {
+                    "pname": "2MASS J22362452+4751425 b",
+                    "semi_major_axis": 0.012105034382218488,
+                    "eccentricity": 0.0,
+                    "orbital_period": 2.8103914707833836e-08,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.15564960016616475,
+                    "angular_separation": 0.004804058761913392,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "30 Ari B",
+            "sy_dist": 0.5101464467594187,
+            "ra": 10.855147414921984,
+            "dec": 0.006444632766243843,
+            "st_teff": 10455.067597419813,
+            "st_lum": 0.6542972699696663,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.015371237458193975,
+            "planets": [
+                {
+                    "pname": "30 Ari B b",
+                    "semi_major_axis": 5.187369622338228e-05,
+                    "eccentricity": 0.3052631578947368,
+                    "orbital_period": 8.333564770785838e-07,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.15564960016616475,
+                    "angular_separation": 3.2215486376953065e-05,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "4 UMa",
+            "sy_dist": 0.8490606810903092,
+            "ra": 36.095341262846304,
+            "dec": 0.008712303954301871,
+            "st_teff": 7069.011222055316,
+            "st_lum": 0.8242669362992922,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010033444816053513,
+            "planets": [
+                {
+                    "pname": "4 UMa b",
+                    "semi_major_axis": 4.592632642504401e-05,
+                    "eccentricity": 0.4768421052631579,
+                    "orbital_period": 6.720877954501556e-07,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": true,
+                    "radius": 0.15954408557482605,
+                    "angular_separation": 1.7266284558708252e-05,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "42 Dra",
+            "sy_dist": 1.051376357694455,
+            "ra": 76.79823706768502,
+            "dec": 0.008782900853223394,
+            "st_teff": 6689.051868869843,
+            "st_lum": 0.8336703741152679,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0004013377926421405,
+            "planets": [
+                {
+                    "pname": "42 Dra b",
+                    "semi_major_axis": 6.240001445052965e-05,
+                    "eccentricity": 0.39999999999999997,
+                    "orbital_period": 1.1915654075076679e-06,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": true,
+                    "radius": 0.16473673278637452,
+                    "angular_separation": 1.9007939139474635e-05,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "47 UMa",
+            "sy_dist": 0.14702850729687172,
+            "ra": 45.77098856838012,
+            "dec": 0.007346584514059274,
+            "st_teff": 9643.898559688963,
+            "st_lum": 0.635793731041456,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0011237458193979932,
+            "planets": [
+                {
+                    "pname": "47 UMa b",
+                    "semi_major_axis": 0.00011029476238405024,
+                    "eccentricity": 0.03368421052631579,
+                    "orbital_period": 2.6813664028686985e-06,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.16733305639214874,
+                    "angular_separation": 0.00022060445686318393,
+                    "texture": null
+                },
+                {
+                    "pname": "47 UMa c",
+                    "semi_major_axis": 0.00018924214908765558,
+                    "eccentricity": 0.1031578947368421,
+                    "orbital_period": 5.947535557834524e-06,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.18031467442101984,
+                    "angular_separation": 0.0003788047479494641,
+                    "texture": null
+                },
+                {
+                    "pname": "47 UMa d",
+                    "semi_major_axis": 0.0006102948781735507,
+                    "eccentricity": 0.16842105263157894,
+                    "orbital_period": 3.483062014146606e-05,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.17122754180081007,
+                    "angular_separation": 0.0012206044619865511,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "51 Eri",
+            "sy_dist": 0.33483137402771423,
+            "ra": 19.237681946081825,
+            "dec": 0.004894649369346278,
+            "st_teff": 12158.699301935141,
+            "st_lum": 0.7017189079878665,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.026163210702341132,
+            "planets": [
+                {
+                    "pname": "51 Eri b",
+                    "semi_major_axis": 0.0006945054239907297,
+                    "eccentricity": 0.47368421052631576,
+                    "orbital_period": 2.9074401234694605e-05,
+                    "inclination": 0.754771741728412,
+                    "habitable_zone": false,
+                    "radius": 0.16992937999792296,
+                    "angular_separation": 0.0006444070715163382,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "51 Peg",
+            "sy_dist": 0.1666162116880572,
+            "ra": 95.66206097779028,
+            "dec": 0.006222957016158336,
+            "st_teff": 9442.431739860387,
+            "st_lum": 0.6295247724974722,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0008829431438127092,
+            "planets": [
+                {
+                    "pname": "51 Peg b",
+                    "semi_major_axis": 2.542105851856092e-06,
+                    "eccentricity": 0.013684210526315788,
+                    "orbital_period": 1.029870326103024e-08,
+                    "inclination": 0.4531589670047006,
+                    "habitable_zone": false,
+                    "radius": 0.18161283622390698,
+                    "angular_separation": 4.944078399786062e-06,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "55 Cnc",
+            "sy_dist": 0.13277691388147922,
+            "ra": 36.95529644617017,
+            "dec": 0.006655043928235464,
+            "st_teff": 8406.821595829284,
+            "st_lum": 0.5958543983822042,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0004936454849498327,
+            "planets": [
+                {
+                    "pname": "55 Cnc b",
+                    "semi_major_axis": 5.736843433795322e-06,
+                    "eccentricity": 0.0,
+                    "orbital_period": 3.6221128640013646e-08,
+                    "inclination": 0.5085305197983179,
+                    "habitable_zone": false,
+                    "radius": 0.17642018901235854,
+                    "angular_separation": 1.3071799776695868e-05,
+                    "texture": null
+                },
+                {
+                    "pname": "55 Cnc c",
+                    "semi_major_axis": 1.2257897575513123e-05,
+                    "eccentricity": 0.03157894736842105,
+                    "orbital_period": 1.1021938736317809e-07,
+                    "inclination": 0.5085305197983179,
+                    "habitable_zone": false,
+                    "radius": 0.10644926783674317,
+                    "angular_separation": 2.7425936279845506e-05,
+                    "texture": null
+                },
+                {
+                    "pname": "55 Cnc d",
+                    "semi_major_axis": 0.00031329480939458747,
+                    "eccentricity": 0.1368421052631579,
+                    "orbital_period": 1.3865943519820218e-05,
+                    "inclination": 0.5085305197983179,
+                    "habitable_zone": false,
+                    "radius": 0.16473673278637452,
+                    "angular_separation": 0.0006864970572181925,
+                    "texture": null
+                },
+                {
+                    "pname": "55 Cnc e",
+                    "semi_major_axis": 5.810527661385353e-07,
+                    "eccentricity": 0.05263157894736842,
+                    "orbital_period": 1.6065699257356367e-09,
+                    "inclination": 0.4735889643869294,
+                    "habitable_zone": false,
+                    "radius": 0.020316232215183302,
+                    "angular_separation": 1.7800725780604588e-06,
+                    "texture": null
+                },
+                {
+                    "pname": "55 Cnc f",
+                    "semi_major_axis": 4.033685144642876e-05,
+                    "eccentricity": 0.08421052631578947,
+                    "orbital_period": 6.462420243000454e-07,
+                    "inclination": 0.5085305197983179,
+                    "habitable_zone": false,
+                    "radius": 0.09450617925018175,
+                    "angular_separation": 8.881926025186066e-05,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "6 Lyn",
+            "sy_dist": 0.6278456407610943,
+            "ra": 27.102085532556362,
+            "dec": 0.00835987374129353,
+            "st_teff": 7998.586197755591,
+            "st_lum": 0.72891809908999,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0005297658862876255,
+            "planets": [
+                {
+                    "pname": "6 Lyn b",
+                    "semi_major_axis": 0.00010650528782227719,
+                    "eccentricity": 0.04421052631578947,
+                    "orbital_period": 2.2879833182028222e-06,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.16992937999792296,
+                    "angular_separation": 5.384103075480237e-05,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "61 Vir",
+            "sy_dist": 0.08474391387450522,
+            "ra": 55.42432912862313,
+            "dec": 0.003989299135648911,
+            "st_teff": 9122.558982062385,
+            "st_lum": 0.6061678463094035,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0007625418060200669,
+            "planets": [
+                {
+                    "pname": "61 Vir b",
+                    "semi_major_axis": 2.4105795056078854e-06,
+                    "eccentricity": 0.1263157894736842,
+                    "orbital_period": 1.0259437091867152e-08,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": true,
+                    "radius": 0.023366912451968015,
+                    "angular_separation": 8.558011654876317e-06,
+                    "texture": null
+                },
+                {
+                    "pname": "61 Vir c",
+                    "semi_major_axis": 1.1215792071025532e-05,
+                    "eccentricity": 0.1473684210526316,
+                    "orbital_period": 9.435396447402612e-08,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": true,
+                    "radius": 0.05387371481981514,
+                    "angular_separation": 3.7150174355791166e-05,
+                    "texture": null
+                },
+                {
+                    "pname": "61 Vir d",
+                    "semi_major_axis": 2.482105837961352e-05,
+                    "eccentricity": 0.3684210526315789,
+                    "orbital_period": 3.057693874073015e-07,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.06231176653858138,
+                    "angular_separation": 8.127209040187298e-05,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "7 CMa",
+            "sy_dist": 0.2177852211708159,
+            "ra": 27.51211567593102,
+            "dec": 0.0039355559371490115,
+            "st_teff": 7795.352125121499,
+            "st_lum": 0.7232558139534884,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0004615384615384615,
+            "planets": [
+                {
+                    "pname": "7 CMa b",
+                    "semi_major_axis": 9.229475821562822e-05,
+                    "eccentricity": 0.0631578947368421,
+                    "orbital_period": 1.8283813280493674e-06,
+                    "inclination": 0.5100670377072877,
+                    "habitable_zone": true,
+                    "radius": 0.16992937999792296,
+                    "angular_separation": 0.00012873217772775702,
+                    "texture": null
+                },
+                {
+                    "pname": "7 CMa c",
+                    "semi_major_axis": 0.00011308423671424429,
+                    "eccentricity": 0.08421052631578947,
+                    "orbital_period": 2.4773863033201854e-06,
+                    "inclination": 0.5100670377072877,
+                    "habitable_zone": false,
+                    "radius": 0.17642018901235854,
+                    "angular_separation": 0.00015819516771905506,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "70 Vir",
+            "sy_dist": 0.1953229590918989,
+            "ra": 56.121969180738795,
+            "dec": 0.005823326818092379,
+            "st_teff": 8977.644252010252,
+            "st_lum": 0.6613751263902933,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0006260869565217393,
+            "planets": [
+                {
+                    "pname": "70 Vir b",
+                    "semi_major_axis": 2.5084216335292205e-05,
+                    "eccentricity": 0.4197894736842105,
+                    "orbital_period": 2.9004301924454907e-07,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": true,
+                    "radius": 0.15954408557482605,
+                    "angular_separation": 3.9036966818288084e-05,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "75 Cet",
+            "sy_dist": 0.9608542651719174,
+            "ra": 10.521031436099314,
+            "dec": 0.004976875089248387,
+            "st_teff": 7765.308827427763,
+            "st_lum": 0.7890798786653185,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0007103678929765887,
+            "planets": [
+                {
+                    "pname": "75 Cet b",
+                    "semi_major_axis": 0.0001004000232505317,
+                    "eccentricity": 0.09789473684210526,
+                    "orbital_period": 1.7326599349929431e-06,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.16863121819503585,
+                    "angular_separation": 3.337658943079732e-05,
+                    "texture": null
+                },
+                {
+                    "pname": "75 Cet c",
+                    "semi_major_axis": 0.000206557942571313,
+                    "eccentricity": 0.02421052631578947,
+                    "orbital_period": 5.103306701922641e-06,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.17642018901235854,
+                    "angular_separation": 6.87902325730472e-05,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "8 UMi",
+            "sy_dist": 1.8973588028589048,
+            "ra": 62.263116359588224,
+            "dec": 0.009316532989804506,
+            "st_teff": 7832.46443403729,
+            "st_lum": 0.7901921132457027,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0014448160535117057,
+            "planets": [
+                {
+                    "pname": "8 UMi b",
+                    "semi_major_axis": 2.5557900655513836e-05,
+                    "eccentricity": 0.0631578947368421,
+                    "orbital_period": 2.3211267097277136e-07,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.17252570360369718,
+                    "angular_separation": 4.363526872863932e-06,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "81 Cet",
+            "sy_dist": 1.1761660488824877,
+            "ra": 10.906033269674847,
+            "dec": 0.004841927427649436,
+            "st_teff": 7632.764867014227,
+            "st_lum": 0.7937310414560161,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0007224080267558529,
+            "planets": [
+                {
+                    "pname": "81 Cet b",
+                    "semi_major_axis": 0.00011050528874859319,
+                    "eccentricity": 0.038947368421052626,
+                    "orbital_period": 2.5011922734748108e-06,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": false,
+                    "radius": 0.16603489458926163,
+                    "angular_separation": 3.0183556032725623e-05,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "91 Aqr",
+            "sy_dist": 0.5027735534023472,
+            "ra": 96.94252212794763,
+            "dec": 0.004516667419822675,
+            "st_teff": 7510.8244234337735,
+            "st_lum": 0.78685540950455,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0015652173913043477,
+            "planets": [
+                {
+                    "pname": "91 Aqr b",
+                    "semi_major_axis": 3.661053479401858e-05,
+                    "eccentricity": 0.028421052631578944,
+                    "orbital_period": 4.5101814365898053e-07,
+                    "inclination": 0.4923379918376575,
+                    "habitable_zone": true,
+                    "radius": 0.16603489458926163,
+                    "angular_separation": 2.307179982792954e-05,
+                    "texture": null
+                }
+            ]
+        },
+        {
+            "name": "AB Aur",
+            "sy_dist": 1.8923580373358353,
+            "ra": 20.499615311877744,
+            "dec": 0.006781987290119307,
+            "st_teff": 16532.64999558187,
+            "st_lum": 0.7948432760364004,
+            "distance_from_center": 42.74122743542988,
+            "rotation_speed": 0.0010033444816053513,
+            "planets": [
+                {
+                    "pname": "AB Aur b",
+                    "semi_major_axis": 0.004941874828644698,
+                    "eccentricity": 0.42105263157894735,
+                    "orbital_period": 2.8103914707833836e-08,
+                    "inclination": 0.2403227825770251,
+                    "habitable_zone": false,
+                    "radius": 0.15824592377193897,
+                    "angular_separation": 0.0008403432118525567,
+                    "texture": null
+                }
+            ]
+        }
+    ]
+}

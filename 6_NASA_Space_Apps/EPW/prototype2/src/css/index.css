@@ -1,0 +1,35 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden; /* Prevents scrolling */
+  font-family: Arial, sans-serif;
+  background-color: #0c0c0c; /* Space-themed background */
+  color: white; /* Text color */
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.main {
+  display: flex;
+  flex: 1;
+}
+
+.canvas-container {
+  flex: 1; /* Take all available space left */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0c0c0c; /* Background color for the canvas area */
+}

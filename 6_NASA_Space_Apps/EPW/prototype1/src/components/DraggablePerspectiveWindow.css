@@ -1,0 +1,21 @@
+.draggable-window {
+  background-color: rgba(255, 255, 255, 0.9);
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 8px;
+  position: absolute; /* Allows dragging */
+  z-index: 10;
+}
+
+.dropdown-container {
+  margin-bottom: 10px;
+}
+
+.canvas-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: black; /* To match the space theme */
+}

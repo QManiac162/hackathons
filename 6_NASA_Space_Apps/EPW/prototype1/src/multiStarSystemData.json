@@ -1,0 +1,61 @@
+{
+  "starSystems": [
+    {
+      "name": "Sun",
+      "position": [0, 0, 0],
+      "radius": 1,
+      "color": "yellow",
+      "planets": [
+        {
+          "name": "Earth",
+          "radius": 0.2,
+          "distance": 4,
+          "color": "blue",
+          "orbitalSpeed": 0.05,
+          "moons": [
+            {
+              "name": "Moon",
+              "radius": 0.05,
+              "distance": 0.5,
+              "color": "gray",
+              "orbitalSpeed": 0.2
+            }
+          ]
+        },
+        {
+          "name": "Mars",
+          "radius": 0.1,
+          "distance": 5,
+          "color": "red",
+          "orbitalSpeed": 0.04,
+          "moons": []
+        }
+      ]
+    },
+    {
+      "name": "Star A",
+      "rightAscension": 15.0,
+      "distanceFromSun": 50,
+      "radius": 0.9,
+      "color": "white",
+      "planets": [
+        {
+          "name": "Planet A1",
+          "radius": 0.3,
+          "distance": 6,
+          "color": "green",
+          "orbitalSpeed": 0.02,
+          "moons": [
+            {
+              "name": "Moon A1-1",
+              "radius": 0.05,
+              "distance": 0.3,
+              "color": "gray",
+              "orbitalSpeed": 0.3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

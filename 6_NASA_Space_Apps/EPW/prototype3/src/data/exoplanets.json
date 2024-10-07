@@ -1,0 +1,46 @@
+{
+    "galaxy": {
+      "center_x": 0,
+      "center_y": 0,
+      "center_z": 0,
+      "rotation_speed": 0.005
+    },
+    "starSystems": [
+      {
+        "name": "Star 1",
+        "sy_dist": 20.0,
+        "ra": 100.0,
+        "dec": 0.0,
+        "st_teff": 5800,
+        "st_lum": 1.0,
+        "distance_from_center": 100,
+        "rotation_speed": 0.01,
+        "planets": [
+          {
+            "name": "Planet 1.1",
+            "semi_major_axis": 1.0,
+            "eccentricity": 0.01,
+            "orbital_period": 365.0,
+            "inclination": 0.0,
+            "habitable_zone": true,
+            "radius": 0.9,
+            "angular_separation": 0,
+            "texture": "Mars.png" 
+          },
+          {
+            "name": "Planet 1.2",
+            "semi_major_axis": 1.5,
+            "eccentricity": 0.1,
+            "orbital_period": 500.0,
+            "inclination": 10.0,
+            "habitable_zone": false,
+            "radius": 0.7,
+            "angular_separation": 30,
+            "texture": null  
+          }
+        ]
+      }
+     
+    ]
+  }
+  

@@ -1,0 +1,53 @@
+{
+  "log": {
+    "enabled": true,
+    "debug": false,
+    "console": true,
+    "output": ""
+  },
+  "profiles": {
+    "development": ["serve", "watch", "lint", "compile"]
+  },
+  "lint": {
+    "locations": [ "*.json", "src/**/*.ts" ],
+    "rules": { }
+  },
+  "serve": {
+    "sslKey": "node_modules/@vladmandic/build/cert/https.key",
+    "sslCrt": "node_modules/@vladmandic/build/cert/https.crt",
+    "httpPort": 10050,
+    "httpsPort": 10051,
+    "documentRoot": "",
+    "defaultFolder": "public/",
+    "defaultFile": "index.html",
+    "cors": false
+  },
+  "build": {
+    "global": {
+      "target": "es2018",
+      "sourcemap": true,
+      "treeShaking": true,
+      "ignoreAnnotations": true,
+      "minify": false,
+      "platform": "browser",
+      "format": "esm",
+    "banner": { "js": "/*\n  Solar system model app\n  homepage: <https://github.com/vladmandic/solar-system>\n  author: <https://github.com/vladmandic>'\n*/\n" }
+    },
+    "development": {
+      "minify": false
+    },
+    "targets": [
+      {
+        "name": "solar-system",
+        "input": "src/index.ts",
+        "output": "public/index.js"
+      }
+    ]
+  },
+  "watch": {
+    "locations": [ "src/**/*" ]
+  },
+  "typescript": {
+    "allowJs": false
+  }
+}

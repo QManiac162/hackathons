@@ -1,0 +1,53 @@
+{
+  "name": "@vladmandic/solar-system",
+  "version": "0.1.0",
+  "description": "Solar system model app",
+  "sideEffects": false,
+  "main": "public/earth.js",
+  "author": "Vladimir Mandic <mandic00@live.com>",
+  "bugs": {
+    "url": "https://github.com/vladmandic/solar-system/issues"
+  },
+  "homepage": "https://vladmandic.github.io/solar-system/index.html",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladmandic/solar-system.git"
+  },
+  "scripts": {
+    "dev": "build --profile development"
+  },
+  "keywords": [
+    "earth",
+    "solar-system",
+    "babylonjs"
+  ],
+  "dependencies": {
+    "@babylonjs/core": "^5.38.0",
+    "@babylonjs/gui": "^5.38.0",
+    "@babylonjs/gui-editor": "^5.38.0",
+    "@babylonjs/inspector": "^5.38.0",
+    "@babylonjs/loaders": "^5.38.0",
+    "@babylonjs/materials": "^5.38.0",
+    "@babylonjs/serializers": "^5.38.0",
+    "@types/react": "^18.0.26",
+    "@types/react-dom": "^18.0.9",
+    "@typescript-eslint/eslint-plugin": "^5.47.0",
+    "@typescript-eslint/parser": "^5.47.0",
+    "@vladmandic/build": "^0.7.14",
+    "babylonjs-gltf2interface": "^5.38.0",
+    "esbuild": "^0.16.10",
+    "eslint": "8.30.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-html": "^7.1.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-json": "^3.1.0",
+    "suncalc": "^1.9.0",
+    "tslib": "^2.4.1",
+    "tweakpane": "^3.1.1",
+    "typescript": "4.9.4"
+  }
+}
